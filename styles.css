@@ -1,0 +1,11 @@
+.box {
+    width: 550px;
+    height: 550px;
+    border: 1px solid rgba(255, 0, 0, 1);
+    padding-left: 103px;
+    padding-top: 80px;
+    background-color: rgba(249, 223, 223, 1);
+}
+p {
+    color: rgba(255, 0, 0, 1);
+}
